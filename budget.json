@@ -1,3 +1,4 @@
-{
-"employee":{ "name":"John", "age":30, "city":"New York" }
-}
+{"budget":[
+  { "category":"Target", "value":120 },
+  { "category":"Groceries", "value":80 },
+]}
