@@ -1,4 +1,2 @@
-{"budget":[
-  { "category":"Target", "value":120 },
-  { "category":"Groceries", "value":80 },
-]}
+{ "category":"Target", "value":120 },
+{ "category":"Groceries", "value":80 }
